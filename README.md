@@ -1,6 +1,6 @@
 # randomArtEInk
 ## setup
-raspberry pi, [2.7" e-ink pihat](https://www.waveshare.com/2.7inch-e-paper-hat.htm)
+raspberry pi, [2.7inch e-Paper HAT](https://www.waveshare.com/2.7inch-e-paper-hat.htm)
 
 ## install
 1. install the Python libraries. 
@@ -18,3 +18,13 @@ raspberry pi, [2.7" e-ink pihat](https://www.waveshare.com/2.7inch-e-paper-hat.h
 
     sudo python main.py
 
+## commands
+--word "text to display"
+
+###  buttons
+|button|action|
+| -- | -- |
+|one |reset clear|
+|two |reset dark|
+|three |date time|
+|four |title|
