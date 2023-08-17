@@ -1,3 +1,5 @@
+# randomArtEInk
+
 1, install the Python libraries. 
 2, change the current directory to where the demo files located. 
 3, mkdir venv 
@@ -9,4 +11,3 @@ https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-e
 
  sudo python main.py
 
-# randomArtEInk
