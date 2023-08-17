@@ -24,7 +24,7 @@ raspberry pi, [2.7inch e-Paper HAT](https://www.waveshare.com/2.7inch-e-paper-ha
 ###  buttons
 |button|action|
 | -- | -- |
-|one |reset clear|
-|two |reset dark|
-|three |date time|
-|four |title|
+|key1 |reset clear|
+|key2 |reset dark|
+|key3 |date time|
+|key4 |title|
