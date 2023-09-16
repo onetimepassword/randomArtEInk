@@ -28,3 +28,6 @@ raspberry pi, [2.7inch e-Paper HAT](https://www.waveshare.com/2.7inch-e-paper-ha
 |key2 |reset dark|
 |key3 |date time|
 |key4 |title|
+
+
+![demo](https://github.com/onetimepassword/randomArtEInk/blob/7470d5d403c46f148ab6ca9b65f51626fc925719/IMG_1442.png)
